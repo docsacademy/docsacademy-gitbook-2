@@ -1,11 +1,15 @@
+# Summary
+
+## Group 1
+
 * [Introduction](introduction/intro.md)    
-    * [Some child page](page1/page1-1.md)    
-    * [Some other child page](part1/page1-2.md)
+    * [Subsection 1](introduction/subsection-1.md)    
+    * [Subsection 2](introduction/subsection-2.md)
 
-* [Second page's title](page2/README.md)    
-    * [Some child page](page2/page2-1.md)    
-    * [Some other child page](part2/page2-2.md)    
+* [Setting up](setup/create-account.md)    
 
-## A second-page group​
+## Group 2
 
-* [Yet another page](another-page.md)
+* [Content](content/add-content.md)
+
+* [Publising content](publishing/publishing-content.md)
