@@ -1,5 +1,3 @@
-# Maintaining several product versions
-
 You can create a site in GitBook containing documentation for several product versions. This is especially useful
 if you want to maintain documentation for different versions of a product or if you need to provide documentation
 for customers using different versions.

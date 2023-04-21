@@ -1,5 +1,3 @@
-# Managing content
-
 Managing content in GitBook involves creating, editing, and organizing your content to ensure that it's easy to navigate and up to date. Here are some tips for managing content in GitBook:
 
 1. Use a consistent structure: Make sure your content is organized in a consistent manner, with similar sections and headings used throughout. This will make it easier for readers to navigate your documentation.
