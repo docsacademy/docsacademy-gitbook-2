@@ -10,8 +10,6 @@ Creating a multilingual documentation site can be a complex task, as it involves
 
 There are various tools and platforms available that can help facilitate the creation of a multilingual documentation site, such as GitBook, ReadTheDocs, and Confluence. These platforms typically offer features such as translation management, version control, and integration with other tools and services.
 
-![](../../.gitbook/assets/multilingual-content.png)
-
 Overall, a multilingual documentation site is an essential tool for companies and organizations that want to provide their users with high-quality technical documentation that is easily accessible and understandable in their preferred language.
 
 ![Creating multilingual documentation sites in GitBook](../images/multilingual-content.png)
