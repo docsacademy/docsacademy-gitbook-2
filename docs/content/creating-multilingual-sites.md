@@ -1,5 +1,3 @@
-## What are multilingual sites?
-
 A multilingual documentation site is a website that hosts technical documentation in multiple languages.
 Such sites are commonly used by companies and organizations with a global user base who require their
 documentation to be accessible to users in multiple languages.

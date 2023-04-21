@@ -27,3 +27,4 @@ documentation that is easy to navigate and understand.
 ## Video
 
 <video src="path/to/video.mp4" width="320" height="240" controls></video>
+<video tabindex="-1" class="video-stream html5-main-video" webkit-playsinline="" playsinline="" controlslist="nodownload" style="width: 387px; height: 218px; left: 0px; top: 0px;" src="blob:https://www.youtube.com/52756f8e-206f-4b6f-8a9c-b0b11ab8d383"></video>
