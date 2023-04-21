@@ -11,6 +11,6 @@
 
 ## Group 2
 
-* [Content](content/add-content.md)
-* [Content](content/structure-content.md)
+* [Adding content](content/add-content.md)
+* [Structuring content](content/structure-content.md)
 * [Publishing content](publishing/publishing-content.md)
