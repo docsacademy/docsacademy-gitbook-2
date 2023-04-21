@@ -19,7 +19,7 @@ Overall, a multilingual documentation site is an essential tool for companies an
 to provide their users with high-quality technical documentation that is easily accessible and
 understandable in their preferred language.
 
-![Creating multilingual documentation sites in GitBook](images/multilingual-content.png)
+![Creating multilingual documentation sites in GitBook](../images/multilingual-content.png)
 
 ## Multilingual sites in GitBook
 
