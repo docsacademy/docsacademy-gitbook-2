@@ -12,4 +12,5 @@
 ## Group 2
 
 * [Content](content/add-content.md)
+* [Content](content/structure-content.md)
 * [Publishing content](publishing/publishing-content.md)
