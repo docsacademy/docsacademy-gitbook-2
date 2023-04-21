@@ -12,7 +12,6 @@ content as HTML, PDF, ePub, or Mobi files. The platform integrates with various 
 * GitLab
 * Slack
 * Zapier
-* etc.
 
 This makes it easy to automate workflows and streamline the publishing process.
 
