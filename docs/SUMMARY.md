@@ -5,12 +5,13 @@
 ## Group 1
 
 * [Introduction](introduction/intro.md)
-  * [Subsection 1](introduction/subsection-1.md)
-  * [Subsection 2](introduction/subsection-2.md)
 * [Setting up](setup/creating-account.md)
 
 ## Group 2
 
-* [Adding content](content/add-content.md)
-* [Structuring content](content/structure-content.md)
+* [Managing content](content/managing-content.md)
+ * [Adding content](content/adding-content.md)
+ * [Structuring content](content/structuring-content.md)
+ * [Versioning content](content/versioning-content.md)
+ * [Creating multilingual sites](content/creating-multilingual-sites.md)
 * [Publishing content](publishing/publishing-content.md)
