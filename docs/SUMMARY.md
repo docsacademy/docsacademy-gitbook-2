@@ -1,13 +1,13 @@
-# Table of contents
+# General Information
 
 * [What is GitBook?](README.md)
 
-## Group 1
+## Introducing
 
 * [Introduction](introduction/intro.md)
 * [Setting up](setup/creating-account.md)
 
-## Group 2
+## Content
 
 * [Managing content](content/managing-content.md)
   * [Adding content](content/adding-content.md)

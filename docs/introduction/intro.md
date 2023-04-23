@@ -1,9 +1,6 @@
-GitBook is a popular platform that allows users to create and publish technical documentation for their products or services.
-With its easy-to-use interface and powerful features, GitBook is an ideal tool for technical writers and developers who need
-to create and manage technical documentation.
+GitBook is a popular platform that allows users to create and publish technical documentation for their products or services. With its easy-to-use interface and powerful features, GitBook is an ideal tool for technical writers and developers who need to create and manage technical documentation.
 
-In this document, we'll provide you with a step-by-step guide on how to use GitBook to create technical documentation by following
-these steps:
+In this document, we'll provide you with a step-by-step guide on how to use GitBook to create technical documentation by following these steps:
 
 1. Setting up your GitBook account
 2. Creating a new publication
