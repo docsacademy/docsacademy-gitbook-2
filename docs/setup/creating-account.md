@@ -3,9 +3,7 @@ To create an account in GitBook, follow these steps:
 1. Go to the GitBook website at www.gitbook.com.
 
 2. Click on the "Sign Up" button in the top right corner of the screen.</br>
-   You can sign up using your Google, GitHub or Twitter account by clicking on the corresponding button.
-   Alternatively, you can sign up using your email address by filling in the required information, including
-   your name, email address, and password.
+   You can sign up using your Google, GitHub or Twitter account by clicking on the corresponding button. Alternatively, you can sign up using your email address by filling in the required information, including your name, email address, and password.
 
 3. Once you've entered your information, click on the "Sign up" button.
 
