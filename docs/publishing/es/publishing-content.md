@@ -1,17 +1,17 @@
-To publish content in GitBook, follow these steps:
+Para publicar contenido en GitBook, siga estos pasos:
 
-1. Log in to your GitBook account and navigate to the publication you want to publish.
+1. Inicia sesión en tu cuenta de GitBook y navega hasta la publicación que quieras publicar.
 
-2. Click on the **Edit** button located in the top right corner of the screen.
+2. Haga clic en el botón **Editar** ubicado en la esquina superior derecha de la pantalla.
 
-3. Ensure that all of the content you want to publish is complete and ready for publication. You can preview your content by clicking on the **Preview** button located in the top right corner of the screen.
+3. Asegúrese de que todo el contenido que desea publicar esté completo y listo para su publicación. Puede previsualizar su contenido haciendo clic en el botón **Vista previa** ubicado en la esquina superior derecha de la pantalla.
 
-4. Once you're satisfied with your content, click on the **Publish** button located in the top right corner of the screen.
+4. Una vez que estés satisfecho con tu contenido, haz clic en el botón **Publicar** ubicado en la esquina superior derecha de la pantalla.
 
-5. You'll be prompted to choose a publishing method. You can publish your content to the GitBook platform, to a custom domain, or to an external platform like GitHub.
+5. Se le pedirá que elija un método de publicación. Puede publicar su contenido en la plataforma GitBook, en un dominio personalizado, o en una plataforma externa como GitHub.
 
-6. Choose the publishing method you want to use, and follow the prompts to complete the publishing process. If you're publishing to the GitBook platform, you may be asked to provide a title and description for your publication.
+6. Elija el método de publicación que desea utilizar y siga las instrucciones para completar el proceso de publicación. Si está publicando en la plataforma GitBook, puede que le pidan que proporcione un título y una descripción para su publicación.
 
-7. Once your content is published, it will be visible to anyone who has access to your publication.
+7. Una vez que tu contenido sea publicado, será visible para cualquiera que tenga acceso a tu publicación.
 
-That's it! You've successfully published your content in GitBook. Remember to keep your content up to date by regularly editing and publishing new versions.
+¡Eso es todo! Has publicado correctamente tu contenido en GitBook. Recuerde mantener actualizado su contenido editando y publicando periódicamente nuevas versiones.
